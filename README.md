@@ -1,1 +1,1 @@
-# Image-Classifcation-Learning-
+# Image-Classification-Learning
